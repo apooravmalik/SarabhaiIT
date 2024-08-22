@@ -1,9 +1,11 @@
 
-# Incident Management Analysis
+# Incident Management Analysis 🚨
 
 This project involves the analysis of incident management data. The notebook processes and visualizes data related to incidents, including their categorization, threat levels, and time-related attributes.
 
-## Project Overview
+<img src="https://socialify.git.ci/apooravmalik/SarabhaiIT/image?font=Jost&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="SarabhaiIT" width="640" height="320" />
+
+## Project Overview 📝
 
 This project includes the following key steps:
 - **Data Loading and Preprocessing:** The dataset is loaded, and various preprocessing steps such as date parsing and handling missing values are performed.
@@ -11,7 +13,7 @@ This project includes the following key steps:
 - **Modeling (If Applicable):** Any predictive modeling or data analysis techniques applied to the dataset.
 - **Conclusion:** Final insights derived from the analysis.
 
-## Installation
+## Installation ⚙️
 
 To replicate this analysis, you'll need to install the required Python packages. You can install them directly using:
 
@@ -19,7 +21,7 @@ To replicate this analysis, you'll need to install the required Python packages.
 pip install pandas matplotlib seaborn keras tensorflow scikit-learn numpy scipy
 ```
 
-## Usage
+## Usage 🚀
 
 1. **Clone the repository:**
 
@@ -32,7 +34,7 @@ pip install pandas matplotlib seaborn keras tensorflow scikit-learn numpy scipy
 
    Open the `Incident_management.ipynb` notebook in Jupyter and run all the cells to see the data analysis and visualizations.
 
-## Dataset
+## Dataset 📊
 
 The dataset includes fields like:
 - **REPORTED DATE**
@@ -41,10 +43,10 @@ The dataset includes fields like:
 - **OCCURRED DATE**
 - and others.
 
-## Contributing
+## Contributing 🤝
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
+## License 🛡️
 
 This project is licensed under the MIT License.
